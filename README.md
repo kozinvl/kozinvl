@@ -6,6 +6,6 @@ $ echo "Hello World!" > README.md
 
 <p align="left">
    <a href="">
-    <img src="https://skillicons.dev/icons?i=ruby,gherkin,ts,js,docker,linux,mac_os" alt="" />
+    <img src="https://skillicons.dev/icons?i=ts,js,ruby,gherkin,docker,linux,mac_os" alt="" />
   </a>
 </p>
